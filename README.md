@@ -1,1 +1,1 @@
-### Data structures and algorithm visualizer 
+## DS and Algorithm Visualizer 
